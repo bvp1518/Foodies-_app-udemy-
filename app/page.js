@@ -8,6 +8,7 @@ export default function Home() {
     <>
       <header className={classes.header}>
         <div className={classes.slideshow}>
+          
         <ImageSlideshow />
         </div>
         <div>
