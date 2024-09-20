@@ -1,0 +1,35 @@
+.header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+}
+
+.title { /* Add this class for the h1 */
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.highlight {
+    color: #ff6347; /* Tomato color to highlight text */
+}
+
+.cta {
+    margin-top: 1rem;
+}
+
+.cta a {
+    color: #0070f3; /* Next.js default link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cta a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
